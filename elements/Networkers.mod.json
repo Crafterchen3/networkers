@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Networkers",
+    "icon": {
+      "value": "Items.STONE_PICKAXE"
+    },
+    "showSearch": false
+  }
+}
